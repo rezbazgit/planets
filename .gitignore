@@ -1,0 +1,4 @@
+*.dat
+results/
+*.fasta
+Bayer*
