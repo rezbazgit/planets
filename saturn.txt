@@ -1,2 +1,5 @@
 Saturn is also a planet.
-oops
+<<<<<<< HEAD
+=======
+And I've added another line.
+>>>>>>> 6d279d0979c7bef702a1f1a4e9b9c8845f0a56e2
